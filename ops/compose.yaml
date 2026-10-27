@@ -1,0 +1,27 @@
+name: f-software-hub
+services:
+  app:
+    image: ${HUB_IMAGE:?Set HUB_IMAGE to a versioned image}
+    restart: unless-stopped
+    init: true
+    ports:
+      - "127.0.0.1:3180:3000"
+    environment:
+      DATA_DIR: /app/data
+      APP_ORIGIN: http://127.0.0.1:3180
+      NODE_ENV: production
+    volumes:
+      - ./data:/app/data
+      - ./backups:/app/backups
+      - ./secrets/admin-initial-password:/run/secrets/admin_initial_password:ro
+    mem_limit: 768m
+    cpus: 1.0
+    cap_drop:
+      - ALL
+    security_opt:
+      - no-new-privileges:true
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"

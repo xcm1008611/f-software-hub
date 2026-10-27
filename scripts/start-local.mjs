@@ -1,0 +1,11 @@
+import {cpSync,existsSync} from 'node:fs';
+import {resolve} from 'node:path';
+import {spawn} from 'node:child_process';
+const root=process.cwd();
+const directory=resolve('.next/standalone');
+if(!existsSync(resolve(directory,'server.js')))throw new Error('请先运行 npm run build');
+cpSync(resolve('public'),resolve(directory,'public'),{recursive:true});
+cpSync(resolve('.next/static'),resolve(directory,'.next/static'),{recursive:true});
+const child=spawn(process.execPath,['server.js'],{cwd:directory,stdio:'inherit',env:{...process.env,HOSTNAME:'127.0.0.1',PORT:'3180',DATA_DIR:resolve(root,process.env.DATA_DIR||'.runtime'),MIGRATIONS_DIR:resolve(root,'db/migrations'),APP_ORIGIN:process.env.APP_ORIGIN||'http://127.0.0.1:3180'}});
+for(const signal of ['SIGINT','SIGTERM'])process.on(signal,()=>child.kill(signal));
+child.on('exit',code=>process.exit(code??1));

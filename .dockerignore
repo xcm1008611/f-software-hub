@@ -1,0 +1,13 @@
+node_modules
+.next
+.git
+.runtime
+.env*
+.openai
+.taste-skill
+dist
+outputs
+delivery-private
+*.log
+*.tsbuildinfo
+.DS_Store

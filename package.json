@@ -1,0 +1,37 @@
+{
+  "name": "f-software-hub",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24 <25"
+  },
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1 --port 3180",
+    "build": "next build",
+    "start": "node scripts/start-local.mjs",
+    "typecheck": "tsc --noEmit",
+    "test": "tsx --test tests/*.test.ts",
+    "db:init": "tsx scripts/init-db.ts",
+    "admin:reset": "tsx scripts/reset-admin.ts",
+    "backup": "tsx scripts/backup.ts"
+  },
+  "dependencies": {
+    "better-sqlite3": "13.0.3",
+    "drizzle-orm": "0.45.4",
+    "lucide-react": "1.31.0",
+    "next": "16.4.3",
+    "react": "19.2.6",
+    "react-dom": "19.2.6",
+    "sharp": "0.35.5",
+    "tsx": "4.23.15",
+    "zod": "4.6.7"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "7.6.13",
+    "@types/node": "24.10.0",
+    "@types/react": "19.2.14",
+    "@types/react-dom": "19.2.3",
+    "typescript": "5.9.3"
+  }
+}
