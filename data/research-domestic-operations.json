@@ -1,0 +1,171 @@
+[
+  {
+    "slug": "alibaba-ai-business-assistant",
+    "name": "阿里国际站 AI 生意助手",
+    "company": "阿里巴巴（成都）软件技术有限公司 / 杭州阿里巴巴海外数字商业有限公司",
+    "websiteUrl": "https://supplier.alibaba.com/us/news/PX002CY0H.htm",
+    "tagline": "服务国际站卖家的 AI 发品、询盘接待与经营分析工具。",
+    "description": "阿里国际站卖家服务中的 AI 经营助手，可辅助优化标题和商品素材，整理买家沟通记录并提供回复建议，也提供商品诊断与品类市场分析。主要用于经营国际站店铺。",
+    "categorySlug": "marketing",
+    "tags": [
+      "国内厂商",
+      "外贸AI",
+      "阿里国际站",
+      "商品优化",
+      "询盘接待"
+    ],
+    "useCases": [
+      "优化国际站商品标题、图片和视频",
+      "汇总买家沟通记录并辅助回复询盘",
+      "分析商品表现与品类市场"
+    ],
+    "features": [
+      "商品标题优化、文本翻译与 RFQ 报价辅助",
+      "白底图和场景图生成、商品视频处理",
+      "聊天记录总结、买家特征整理与回复建议",
+      "商品诊断和商品品类市场分析"
+    ],
+    "cautions": [
+      "需要符合条件的国际站卖家账号和有效商家服务；中国大陆商家的开通资格以相应合同和订购方案为准。",
+      "部分功能有使用次数上限，功能开放以账号实际显示为准；商品资料、报价及生成回复仍需人工核对。"
+    ],
+    "pricingType": "paid",
+    "pricingNote": "中国商家合同将生意助手列入出口通 AI 等商家服务，需保持相应服务有效；未核实到统一单独售价，具体费用及用量以订购方案为准。",
+    "chinese": true,
+    "sourceUrl": "https://supplier.alibaba.com/us/news/PX002CY0H.htm",
+    "verifiedAt": "2026-10-27",
+    "originEvidenceUrl": "https://terms.alicdn.com/legal-agreement/terms/suit_bu1_b2b/suit_bu1_b2b202111301159_44306.html",
+    "originEvidenceNote": "现行阿里国际站中国商家服务合同明确服务提供方为阿里巴巴（成都）软件技术有限公司及/或杭州阿里巴巴海外数字商业有限公司，附件列有生意助手软件服务，实际主体以服务订单为准。",
+    "extraSourceUrls": [
+      "https://supplier.alibaba.com/trade/domestic/PX002DMFC.htm",
+      "https://onetouch.alibaba.com/moBasedata/public/news/content8b42a5fa-e0f9-42ee-be57-36c1acc86a78",
+      "https://seller.alibaba.com/tw/ai-tools?language=zh_TW&tenantId=TW"
+    ]
+  },
+  {
+    "slug": "shulex-ai",
+    "name": "Shulex AI 客服员工",
+    "company": "杭州数里行间科技有限公司",
+    "websiteUrl": "https://www.shulex.com/",
+    "tagline": "让 AI 结合商品、订单和售后规则处理跨境客服。",
+    "description": "面向跨境电商品牌的 AI 客服产品，可根据企业知识库和已授权业务数据处理售前问答、订单物流查询与售后流程，并在超出规则范围时转交人工。",
+    "categorySlug": "crm",
+    "tags": [
+      "国内厂商",
+      "AI客服",
+      "跨境电商",
+      "人机协作",
+      "售后服务"
+    ],
+    "useCases": [
+      "处理独立站和平台店铺的售前咨询",
+      "查询跨境订单及物流异常",
+      "按照品牌政策辅助退换货和产品排障"
+    ],
+    "features": [
+      "知识库驱动的多语种问答",
+      "连接商品、订单、物流与 ERP 数据",
+      "按企业服务流程执行并记录处理结果",
+      "无法可靠回答或遇到例外决定时转人工"
+    ],
+    "cautions": [
+      "需要接入业务数据并完成知识训练与上线测试；实施周期取决于渠道、系统和资料准备情况。",
+      "退款、改址等写入操作需经审批，超出既定政策的赔付或例外决定交由人工。"
+    ],
+    "pricingType": "contact",
+    "pricingNote": "官网说明按效果计费，完成效果评估、约定指标后结合业务规模确定方案，未公布统一套餐金额。",
+    "chinese": true,
+    "sourceUrl": "https://www.shulex.com/product-agent.html",
+    "verifiedAt": "2026-10-27",
+    "originEvidenceUrl": "https://www.shulex.com/privacy.html",
+    "originEvidenceNote": "官网隐私政策明确 www.shulex.com 和 Shulex AI 客服服务的运营主体为杭州数里行间科技有限公司；海外 solvea.cx 另有运营主体及政策。",
+    "extraSourceUrls": [
+      "https://www.shulex.com/",
+      "https://www.shulex.com/contact.html"
+    ]
+  },
+  {
+    "slug": "sorftime",
+    "name": "Sorftime",
+    "company": "重庆菲欧坦软件开发有限公司",
+    "websiteUrl": "https://www.sorftime.com/",
+    "tagline": "用市场与评论数据辅助跨境选品，并生成 AI 解读。",
+    "description": "跨境电商市场分析工具，提供多平台产品、类目和关键词数据。亚马逊相关产品列有 AI 产品解读、市场解读与评论分析，可辅助比较竞品和整理选品研究。",
+    "categorySlug": "research",
+    "tags": [
+      "国内厂商",
+      "AI选品",
+      "亚马逊",
+      "评论分析",
+      "市场研究"
+    ],
+    "useCases": [
+      "比较亚马逊类目机会与竞争情况",
+      "结合产品趋势和评论研究买家需求",
+      "借助 AI 整理产品及市场分析报告"
+    ],
+    "features": [
+      "AI 产品解读、市场解读与市场深度解读",
+      "AI 评论分析",
+      "类目、产品、关键词与竞品趋势查询",
+      "提供 API/CLI 和 MCP 数据接入"
+    ],
+    "cautions": [
+      "各平台、站点及版本的数据与 AI 功能不同，不能将亚马逊页面列出的 AI 功能视为所有平台均已提供。",
+      "AI 报告适合辅助研究，采购和上架前仍需结合样品、利润及实际市场资料复核。"
+    ],
+    "pricingType": "trial",
+    "pricingNote": "官网提供免费体验；专业版和插件按所选平台及套餐收费，API/CLI 按调用量计费，具体 AI 权限以购买页为准。",
+    "chinese": true,
+    "sourceUrl": "https://www.sorftime.com/",
+    "verifiedAt": "2026-10-27",
+    "originEvidenceUrl": "https://www.sorftime.com/zh-cn/home/aboutus",
+    "originEvidenceNote": "官网关于我们明确 Sorftime 为重庆菲欧坦软件开发有限公司旗下软件，公司由亚马逊卖家团队于 2018 年成立，并列有重庆办公地址。",
+    "extraSourceUrls": [
+      "https://www.sorftime.com/en-US/home/aboutus",
+      "https://www.sorftime.com/zh-cn/home/aboutus"
+    ]
+  },
+  {
+    "slug": "accio",
+    "name": "Accio",
+    "company": "阿里巴巴国际站 / 阿里巴巴集团",
+    "websiteUrl": "https://www.accio.com/",
+    "tagline": "面向采购买家的 AI 货源搜索与供应商研究工具。",
+    "description": "阿里巴巴推出的 AI 采购研究产品，可通过对话理解采购需求，辅助查找商品和供应商、分析趋势并形成商业研究。其主要角色是买家选品与寻源，适合为出海业务寻找货源。",
+    "categorySlug": "research",
+    "tags": [
+      "国内厂商",
+      "AI采购",
+      "供应商研究",
+      "货源搜索",
+      "B2B"
+    ],
+    "useCases": [
+      "按规格和采购需求寻找货源",
+      "比较供应商与产品方案",
+      "整理采购相关趋势和商业分析"
+    ],
+    "features": [
+      "自然语言采购需求理解",
+      "产品搜索与供应商匹配",
+      "AI 趋势和商业分析",
+      "支持简体中文等多种语言"
+    ],
+    "cautions": [
+      "主要服务采购买家，不能将其视为自动获取海外买家名单的卖家 CRM。",
+      "供应商资质、价格、起订量和交期应以具体供应商确认及订单条款为准；AI 研究不能替代采购核验。"
+    ],
+    "pricingType": "freemium",
+    "pricingNote": "官网说明提供免费计划，高级 AI 采购功能可升级付费；具体额度与金额以当前定价页和账户显示为准。",
+    "chinese": true,
+    "sourceUrl": "https://www1.accio.com/about-us",
+    "verifiedAt": "2026-10-27",
+    "originEvidenceUrl": "https://home.alibabagroup.com/en-US/document-1794239612856565760",
+    "originEvidenceNote": "阿里巴巴集团官网公告确认 Accio 由旗下 Alibaba.com 推出；集团官方公司信息说明其创立于中国杭州，主要运营办公室位于杭州。",
+    "extraSourceUrls": [
+      "https://www.alibabagroup.com/en-US/faqs-corporate-information",
+      "https://www.accio.com/pricing"
+    ]
+  }
+]

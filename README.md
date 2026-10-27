@@ -31,6 +31,18 @@
 
 验证命令：`npm run typecheck`、`npm test`、`npm run build`。`scripts/verify-http.mjs` 会验证真实 HTTP 权限和产品生命周期，并生成一条明确标记的测试产品；仅用于验收，并按报告中的 ID 清理。
 
+## 增量收录资料
+
+国内外贸与跨境 AI 工具的核验批次保存为 `data/domestic-ai-catalog-2026-10-27.json`，厂商归属和官方来源见 `data/domestic-ai-sources-2026-10-27.md`。其中既有外贸专用系统，也有适用于跨境内容制作的通用工具。前台搜索“国内团队”可查看本批资料；该标签不代表所有数据或模型都部署在中国大陆。
+
+批量导入通过管理员接口执行，已有地址标识一律跳过，不覆盖后台修改。先备份服务器数据并建立 SSH 隧道，再在本机项目目录运行：
+
+```sh
+node --import tsx scripts/import-products.mjs data/domestic-ai-catalog-2026-10-27.json
+```
+
+默认仅验证并预览新增清单；确认资料完整后，在同一命令末尾添加 `--apply` 才会写入。凭据从 `.runtime/admin-initial-password` 读取；若已改密，可通过 `IMPORT_PASSWORD_FILE` 指向本机受保护的现行密码文件，不要把密码写进命令。每次运行记录保存在 `outputs/import-*.json`，中断后可重新执行，已成功新增的条目会被跳过。
+
 ## 服务器部署
 
 服务器通过 SSH 别名 `aliyun` 连接；应用目录 `/opt/f-software-hub`。使用独立 Docker Compose 项目，端口仅为 `127.0.0.1:3180`。

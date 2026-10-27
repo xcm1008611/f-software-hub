@@ -1,0 +1,623 @@
+{
+  "title": "国内团队外贸与跨境AI工具增量收录",
+  "verifiedAt": "2026-10-27",
+  "products": [
+    {
+      "slug": "okki-aireach",
+      "name": "OKKI AiReach",
+      "company": "深圳市小满科技有限公司",
+      "websiteUrl": "https://www.xiaoman.cn/products/ai_reach.html",
+      "tagline": "围绕买家画像开展海外客户开发与老客跟进",
+      "description": "小满科技面向外贸 B2B 企业的 AI 营销产品。结合企业资料和已授权的 CRM 数据生成理想潜客画像，寻找并核验潜在客户，生成个性化开发内容和多轮跟进任务，也支持沉睡客户盘活、社媒人脉开发与展会邀约。",
+      "tags": [
+        "国内团队",
+        "外贸B2B",
+        "AI获客",
+        "开发信",
+        "客户背调",
+        "老客盘活",
+        "外贸AI"
+      ],
+      "useCases": [
+        "按国家、品类和买家类型开发海外客户",
+        "根据历史沟通记录重新跟进沉睡客户",
+        "为展会邀约或社媒破冰准备个性化内容"
+      ],
+      "features": [
+        "生成和调整理想潜客画像",
+        "潜客挖掘及公司、联系人信息核验",
+        "个性化营销内容与多轮触达",
+        "结合 OKKI CRM 资料开展老客分层和盘活"
+      ],
+      "cautions": "老客盘活等联动功能依赖已购买的产品版本和已授权数据。\n潜客信息、买家画像和 AI 内容仍需人工核实，官网服务规则不承诺获客或成交效果。",
+      "pricingType": "contact",
+      "pricingNote": "官网提供体验申请与专属报价入口，未公开统一价格。应确认 AiReach 的交付范围、使用额度及 CRM 等配套产品是否另行收费。",
+      "chinese": true,
+      "sourceUrl": "https://www.xiaoman.cn/products/ai_reach.html",
+      "verifiedAt": "2026-10-27",
+      "categoryId": "marketing",
+      "logoPath": null,
+      "featured": true,
+      "sortOrder": -100,
+      "status": "published"
+    },
+    {
+      "slug": "fumasoft-mx",
+      "name": "孚盟 MX",
+      "company": "上海孚盟软件有限公司",
+      "websiteUrl": "https://www.fumasoft.com/",
+      "tagline": "把 AI 业务助手与外贸客户、邮件和跟进管理结合",
+      "description": "孚盟面向外贸企业的营销与客户管理平台，提供客户资料、邮件和跟进记录管理。官方孚盟 MX 应用更新说明确认，AI Pro 可辅助查询数据、建立客户和完成跟进，适合希望将 AI 用在日常客户管理中的外贸团队。",
+      "tags": [
+        "国内团队",
+        "外贸CRM",
+        "AI助手",
+        "客户管理",
+        "邮件管理",
+        "业务跟进",
+        "外贸AI"
+      ],
+      "useCases": [
+        "通过 AI 助手查询业务数据和建立客户记录",
+        "集中记录外贸客户资料、邮件与跟进过程",
+        "帮助团队交接客户并追踪商机进展"
+      ],
+      "features": [
+        "AI Pro 辅助查数据、建客户和做跟进",
+        "客户行为时间轴与标签管理",
+        "客户公海及客户资料更新记录",
+        "邮件集中管理与按权限查看业务记录"
+      ],
+      "cautions": "AI Pro 的适用终端和开通范围需按实际账号版本确认；本次未登录产品实测。",
+      "pricingType": "contact",
+      "pricingNote": "官网提供体验申请，许可协议包含续费条款，但未列统一公开价格。App 免费下载不代表后台服务免费，应确认 AI Pro、账号和各模块的收费范围。",
+      "chinese": true,
+      "sourceUrl": "https://apps.apple.com/cn/app/%E5%AD%9A%E7%9B%9Fmx/id1450601343",
+      "verifiedAt": "2026-10-27",
+      "categoryId": "crm",
+      "logoPath": null,
+      "featured": true,
+      "sortOrder": -98,
+      "status": "published"
+    },
+    {
+      "slug": "joinf-ai-agent",
+      "name": "富通天下 AI Agent",
+      "company": "宁波中茂网络科技有限公司",
+      "websiteUrl": "https://www.joinf.com/aiAgent.html",
+      "tagline": "连接外贸获客、询盘接待与 CRM 日常操作",
+      "description": "富通天下云平台中的外贸 AI 产品，覆盖潜客筛选、个性化开发信、社媒内容和独立站接待等场景，并与客户、线索和商机管理联动。平台还提供可视化业务编排，用于按企业流程配置 AI 任务。",
+      "tags": [
+        "国内团队",
+        "外贸CRM",
+        "AI获客",
+        "AI客服",
+        "营销自动化",
+        "工作流",
+        "外贸AI"
+      ],
+      "useCases": [
+        "筛选目标买家并准备个性化开发信",
+        "在独立站提供多语言买家接待",
+        "把客户建档与商机跟进接入外贸业务流程"
+      ],
+      "features": [
+        "基于潜客模型筛选客户并生成开发信",
+        "AI 社媒内容生成与营销任务",
+        "独立站多语言商务接待",
+        "AI 客户建档及线索、商机管理",
+        "通过可视化节点编排业务流程"
+      ],
+      "cautions": "属于富通天下云平台产品体系，具体 AI 模块和第三方渠道接入范围需按合同确认。\n自动生成的开发内容和更新的客户档案需人工核查，功能介绍不等于实际成交保证。",
+      "pricingType": "contact",
+      "pricingNote": "官网提供免费体验申请及咨询入口，未公开 AI Agent 的统一价目表。应分别确认云平台账号、AI 模块及建站或营销服务的费用与额度。",
+      "chinese": true,
+      "sourceUrl": "https://www.joinf.com/aiAgent.html",
+      "verifiedAt": "2026-10-27",
+      "categoryId": "crm",
+      "logoPath": null,
+      "featured": true,
+      "sortOrder": -99,
+      "status": "published"
+    },
+    {
+      "slug": "tendata-ai",
+      "name": "腾道 AI",
+      "company": "上海腾道信息技术有限公司",
+      "websiteUrl": "https://www.tendata.cn/ai",
+      "tagline": "结合贸易数据做买家背调、市场分析与开发内容",
+      "description": "腾道外贸通产品体系中的 AI 应用，把贸易、商业等数据用于客户背景分析、潜客推荐、市场研究和竞争情报整理。外贸团队可围绕产品词、HS 编码或目标企业开展分析，再生成邮件及社媒开发话术。",
+      "tags": [
+        "国内团队",
+        "外贸B2B",
+        "海关数据",
+        "客户背调",
+        "市场分析",
+        "开发信",
+        "外贸AI"
+      ],
+      "useCases": [
+        "按产品词或 HS 编码寻找买家和目标市场",
+        "研究目标客户的企业背景与贸易记录",
+        "为海外客户开发准备邮件和社媒话术"
+      ],
+      "features": [
+        "结合贸易数据生成客户画像与开发策略",
+        "按外贸场景提供市场和竞对分析模板",
+        "客户推荐与潜力分析",
+        "开发信、再营销邮件和社媒话术生成",
+        "与数据通、商情发现等腾道产品联动"
+      ],
+      "cautions": "可查国家、数据字段和更新情况应按实际购买权限核实。\nAI 背调与风险提示适合作为研究线索，不能替代原始记录复核和商务判断。",
+      "pricingType": "contact",
+      "pricingNote": "官网提供预约演示或样本申请，报价由顾问提供，未列统一公开价格。AI 权限、数据范围与使用额度需按所选产品方案确认。",
+      "chinese": true,
+      "sourceUrl": "https://www.tendata.cn/ai",
+      "verifiedAt": "2026-10-27",
+      "categoryId": "marketing",
+      "logoPath": null,
+      "featured": false,
+      "sortOrder": -77,
+      "status": "published"
+    },
+    {
+      "slug": "leadong-moliai",
+      "name": "焦点领动 MoliAI",
+      "company": "南京焦点领动云计算技术有限公司",
+      "websiteUrl": "https://www.leadong.com/",
+      "tagline": "为外贸独立站生成产品、SEO 和询盘回复内容",
+      "description": "焦点领动的外贸网站 AI 应用，为独立站运营提供产品描述、公司介绍、SEO 文案、询盘回复建议与展会邀请等内容创作。可配合领动后台和浏览器插件，将产品关键词、页面描述等内容填入编辑界面。",
+      "tags": [
+        "国内团队",
+        "外贸独立站",
+        "AI文案",
+        "SEO",
+        "产品描述",
+        "询盘回复",
+        "外贸AI"
+      ],
+      "useCases": [
+        "整理外贸独立站的产品名称、关键词和详情描述",
+        "生成 SEO 文章及页面 Meta 描述草稿",
+        "为客户询盘和展会邀约起草回复内容"
+      ],
+      "features": [
+        "按外贸场景生成产品和网站文案",
+        "询盘回复建议与展会邀请函",
+        "多语言内容创作和改写",
+        "AI 魔力写手填充产品关键词、TKD 和描述",
+        "支持 AI 换背景、扩图与文生图功能"
+      ],
+      "cautions": "需付费开通并登录相应领动账号，部分后台操作配合浏览器插件使用。\n生成内容需核对产品规格、品牌信息与重复表达；后台已有内容的回填规则应先确认。",
+      "pricingType": "paid",
+      "pricingNote": "官方帮助明确说明 MoliAI 需付费开通，并展示点数管理。公开页面未列统一价格，需确认创作点数、图片能力及独立站服务是否分别收费。",
+      "chinese": true,
+      "sourceUrl": "https://www.leadong.com/id45108737.html",
+      "verifiedAt": "2026-10-27",
+      "categoryId": "storefront",
+      "logoPath": null,
+      "featured": false,
+      "sortOrder": -76,
+      "status": "published"
+    },
+    {
+      "slug": "trade-express-ai",
+      "name": "外贸快车",
+      "company": "杭州思亿欧科技集团股份有限公司",
+      "websiteUrl": "https://www.trade-express.cn/",
+      "tagline": "把 AI 内容与客服接入外贸独立站运营",
+      "description": "思亿欧旗下的外贸独立站 SaaS，围绕多语言网站建设、询盘管理与海外营销提供服务。官网产品页列有 AI 辅助内容生成、AI 智能客服、AI 内容创建和表现统计等功能，适合希望统一建设和运营海外展示网站的外贸企业。",
+      "tags": [
+        "国内团队",
+        "外贸独立站",
+        "AI内容",
+        "AI客服",
+        "询盘管理",
+        "多语言网站",
+        "外贸AI"
+      ],
+      "useCases": [
+        "为出口产品搭建和维护多语言独立站",
+        "使用 AI 起草网站内容并辅助接待采购商",
+        "统一查看网站流量与询盘来源"
+      ],
+      "features": [
+        "多语言网站建设与 AI 辅助内容生成",
+        "按套餐提供 AI 智能客服",
+        "询盘分配、管理和回复",
+        "网站流量及询盘来源分析",
+        "AI 内容创建与表现统计相关模块"
+      ],
+      "cautions": "不同套餐的 AI 客服、运营和增值功能范围不同，需逐项核对。\n官网套餐含排名与曝光宣传，本库仅记录功能；搜索表现和实际询盘效果仍需独立评估。",
+      "pricingType": "contact",
+      "pricingNote": "官网公开银牌、金牌、钻石和至尊等套餐功能对照，未列统一金额。AI 智能客服并非所有套餐都包含，最终费用与服务内容以具体方案为准。",
+      "chinese": true,
+      "sourceUrl": "https://www.trade-express.cn/products.html",
+      "verifiedAt": "2026-10-27",
+      "categoryId": "storefront",
+      "logoPath": null,
+      "featured": false,
+      "sortOrder": -75,
+      "status": "published"
+    },
+    {
+      "slug": "alibaba-ai-business-assistant",
+      "name": "阿里国际站 AI 生意助手",
+      "company": "阿里巴巴（成都）软件技术有限公司 / 杭州阿里巴巴海外数字商业有限公司",
+      "websiteUrl": "https://supplier.alibaba.com/us/news/PX002CY0H.htm",
+      "tagline": "服务国际站卖家的 AI 发品、询盘接待与经营分析工具。",
+      "description": "阿里国际站卖家服务中的 AI 经营助手，可辅助优化标题和商品素材，整理买家沟通记录并提供回复建议，也提供商品诊断与品类市场分析。主要用于经营国际站店铺。",
+      "tags": [
+        "国内团队",
+        "外贸AI",
+        "阿里国际站",
+        "商品优化",
+        "询盘接待"
+      ],
+      "useCases": [
+        "优化国际站商品标题、图片和视频",
+        "汇总买家沟通记录并辅助回复询盘",
+        "分析商品表现与品类市场"
+      ],
+      "features": [
+        "商品标题优化、文本翻译与 RFQ 报价辅助",
+        "白底图和场景图生成、商品视频处理",
+        "聊天记录总结、买家特征整理与回复建议",
+        "商品诊断和商品品类市场分析"
+      ],
+      "cautions": "需要符合条件的国际站卖家账号和有效商家服务；中国大陆商家的开通资格以相应合同和订购方案为准。\n部分功能有使用次数上限，功能开放以账号实际显示为准；商品资料、报价及生成回复仍需人工核对。",
+      "pricingType": "paid",
+      "pricingNote": "中国商家合同将生意助手列入出口通 AI 等商家服务，需保持相应服务有效；未核实到统一单独售价，具体费用及用量以订购方案为准。",
+      "chinese": true,
+      "sourceUrl": "https://supplier.alibaba.com/us/news/PX002CY0H.htm",
+      "verifiedAt": "2026-10-27",
+      "categoryId": "marketing",
+      "logoPath": null,
+      "featured": false,
+      "sortOrder": -74,
+      "status": "published"
+    },
+    {
+      "slug": "shulex-ai",
+      "name": "Shulex AI 客服员工",
+      "company": "杭州数里行间科技有限公司",
+      "websiteUrl": "https://www.shulex.com/",
+      "tagline": "让 AI 结合商品、订单和售后规则处理跨境客服。",
+      "description": "面向跨境电商品牌的 AI 客服产品，可根据企业知识库和已授权业务数据处理售前问答、订单物流查询与售后流程，并在超出规则范围时转交人工。",
+      "tags": [
+        "国内团队",
+        "AI客服",
+        "跨境电商",
+        "人机协作",
+        "售后服务",
+        "跨境AI"
+      ],
+      "useCases": [
+        "处理独立站和平台店铺的售前咨询",
+        "查询跨境订单及物流异常",
+        "按照品牌政策辅助退换货和产品排障"
+      ],
+      "features": [
+        "知识库驱动的多语种问答",
+        "连接商品、订单、物流与 ERP 数据",
+        "按企业服务流程执行并记录处理结果",
+        "无法可靠回答或遇到例外决定时转人工"
+      ],
+      "cautions": "需要接入业务数据并完成知识训练与上线测试；实施周期取决于渠道、系统和资料准备情况。\n退款、改址等写入操作需经审批，超出既定政策的赔付或例外决定交由人工。",
+      "pricingType": "contact",
+      "pricingNote": "官网说明按效果计费，完成效果评估、约定指标后结合业务规模确定方案，未公布统一套餐金额。",
+      "chinese": true,
+      "sourceUrl": "https://www.shulex.com/product-agent.html",
+      "verifiedAt": "2026-10-27",
+      "categoryId": "crm",
+      "logoPath": null,
+      "featured": true,
+      "sortOrder": -96,
+      "status": "published"
+    },
+    {
+      "slug": "sorftime",
+      "name": "Sorftime",
+      "company": "重庆菲欧坦软件开发有限公司",
+      "websiteUrl": "https://www.sorftime.com/",
+      "tagline": "用市场与评论数据辅助跨境选品，并生成 AI 解读。",
+      "description": "跨境电商市场分析工具，提供多平台产品、类目和关键词数据。亚马逊相关产品列有 AI 产品解读、市场解读与评论分析，可辅助比较竞品和整理选品研究。",
+      "tags": [
+        "国内团队",
+        "AI选品",
+        "亚马逊",
+        "评论分析",
+        "市场研究",
+        "跨境AI"
+      ],
+      "useCases": [
+        "比较亚马逊类目机会与竞争情况",
+        "结合产品趋势和评论研究买家需求",
+        "借助 AI 整理产品及市场分析报告"
+      ],
+      "features": [
+        "AI 产品解读、市场解读与市场深度解读",
+        "AI 评论分析",
+        "类目、产品、关键词与竞品趋势查询",
+        "提供 API/CLI 和 MCP 数据接入"
+      ],
+      "cautions": "各平台、站点及版本的数据与 AI 功能不同，不能将亚马逊页面列出的 AI 功能视为所有平台均已提供。\nAI 报告适合辅助研究，采购和上架前仍需结合样品、利润及实际市场资料复核。",
+      "pricingType": "trial",
+      "pricingNote": "官网提供免费体验；专业版和插件按所选平台及套餐收费，API/CLI 按调用量计费，具体 AI 权限以购买页为准。",
+      "chinese": true,
+      "sourceUrl": "https://www.sorftime.com/",
+      "verifiedAt": "2026-10-27",
+      "categoryId": "research",
+      "logoPath": null,
+      "featured": true,
+      "sortOrder": -95,
+      "status": "published"
+    },
+    {
+      "slug": "accio",
+      "name": "Accio",
+      "company": "阿里巴巴国际站 / 阿里巴巴集团",
+      "websiteUrl": "https://www.accio.com/",
+      "tagline": "面向采购买家的 AI 货源搜索与供应商研究工具。",
+      "description": "阿里巴巴推出的 AI 采购研究产品，可通过对话理解采购需求，辅助查找商品和供应商、分析趋势并形成商业研究。其主要角色是买家选品与寻源，适合为出海业务寻找货源。",
+      "tags": [
+        "国内团队",
+        "AI采购",
+        "供应商研究",
+        "货源搜索",
+        "B2B",
+        "跨境AI"
+      ],
+      "useCases": [
+        "按规格和采购需求寻找货源",
+        "比较供应商与产品方案",
+        "整理采购相关趋势和商业分析"
+      ],
+      "features": [
+        "自然语言采购需求理解",
+        "产品搜索与供应商匹配",
+        "AI 趋势和商业分析",
+        "支持简体中文等多种语言"
+      ],
+      "cautions": "主要服务采购买家，不能将其视为自动获取海外买家名单的卖家 CRM。\n供应商资质、价格、起订量和交期应以具体供应商确认及订单条款为准；AI 研究不能替代采购核验。",
+      "pricingType": "freemium",
+      "pricingNote": "官网说明提供免费计划，高级 AI 采购功能可升级付费；具体额度与金额以当前定价页和账户显示为准。",
+      "chinese": true,
+      "sourceUrl": "https://www1.accio.com/about-us",
+      "verifiedAt": "2026-10-27",
+      "categoryId": "research",
+      "logoPath": null,
+      "featured": false,
+      "sortOrder": -71,
+      "status": "published"
+    },
+    {
+      "slug": "meitu-designkit",
+      "name": "美图设计室",
+      "company": "美图公司；国内运营主体为厦门鸿天创视科技有限公司",
+      "websiteUrl": "https://www.designkit.cn/",
+      "tagline": "把商品实拍图做成场景图、模特图和多语言上架素材",
+      "description": "美图旗下的电商视觉工具，提供 AI 商品场景生成、模特试衣、图片翻译和跨境商品文案。适合需要制作海外店铺主图、详情图和促销素材的商家；也有面向 Amazon、Shopify、TikTok Shop 等场景的 Designkit 国际版。",
+      "tags": [
+        "国内团队",
+        "商品图",
+        "AI模特",
+        "图片翻译",
+        "Listing文案",
+        "跨境AI"
+      ],
+      "useCases": [
+        "把手机拍摄的商品图扩展为生活场景图",
+        "为服装或鞋类制作模特穿戴图",
+        "翻译商品图片并准备海外上架文案"
+      ],
+      "features": [
+        "按预设场景、文字或参考图生成商品背景",
+        "AI模特、试衣和试鞋",
+        "图片翻译与跨境商品文案生成",
+        "抠图、清晰度增强和批量图片处理"
+      ],
+      "cautions": "个人商用授权与企业商用授权不同；公司店铺和广告素材应选择适用的团队或企业授权。\n基础会员权益和消耗美豆的AI功能分别计费；国内版与国际版的套餐、功能和权益需要分别核对。\n生成后检查商品形状、颜色、规格和译文，避免图片表达与实物不符。",
+      "pricingType": "freemium",
+      "pricingNote": "提供免费功能和付费会员；AI商品图、模特、试衣等通常消耗美豆，额度不足需补购。商用主体及席位影响套餐选择，实际权益以定价页为准。",
+      "chinese": true,
+      "sourceUrl": "https://www.designkit.cn/aicp",
+      "verifiedAt": "2026-10-27",
+      "categoryId": "content",
+      "logoPath": null,
+      "featured": true,
+      "sortOrder": -97,
+      "status": "published"
+    },
+    {
+      "slug": "gaoding-ai",
+      "name": "稿定 AI",
+      "company": "厦门稿定股份有限公司及稿定（厦门）科技有限公司等关联公司",
+      "websiteUrl": "https://www.gaoding.com/",
+      "tagline": "用商品图生成主图套图、详情页和多语言营销图片",
+      "description": "稿定的 AI 创作平台提供商品精修、场景图、主图套图、商品详情页/A+和图片翻译等电商工作流。适合跨境卖家集中制作上架图片和营销设计，也可结合模板编辑与团队协作整理品牌素材。",
+      "tags": [
+        "国内团队",
+        "商品图",
+        "A+详情页",
+        "图片翻译",
+        "营销设计",
+        "跨境AI"
+      ],
+      "useCases": [
+        "从一张产品图制作同系列主图和场景图",
+        "准备商品详情页或A+内容",
+        "把商品图中的卖点翻译为目标市场语言"
+      ],
+      "features": [
+        "电商主图套图和商品精修",
+        "商品场景图与模特穿戴图",
+        "商品详情页/A+生成",
+        "图片文字多语言翻译"
+      ],
+      "cautions": "AI创作会员和模板商用授权不是同一项权益；官方套餐页显示AI创作会员不含模板个人商用授权。\n企业、品牌或客户项目需按对应授权主体和用途选择套餐，不能把个人授权直接当成企业或转授权。\n会员赠送的豆按月发放并重置，未用额度不结转；上架前仍需检查商品细节和翻译。",
+      "pricingType": "paid",
+      "pricingNote": "AI创作按豆消耗，可订阅AI创作会员或包含组合权益的大会员，并可加购豆；模板、素材及企业授权按具体方案确定，不承诺固定赠送额度。",
+      "chinese": true,
+      "sourceUrl": "https://www.gaoding.art/creation",
+      "verifiedAt": "2026-10-27",
+      "categoryId": "content",
+      "logoPath": null,
+      "featured": false,
+      "sortOrder": -69,
+      "status": "published"
+    },
+    {
+      "slug": "chuangkit-ai",
+      "name": "创客贴 AI",
+      "company": "北京艺源酷科技有限公司",
+      "websiteUrl": "https://www.chuangkit.com/",
+      "tagline": "批量翻译商品图，并继续编辑海外店铺和社媒素材",
+      "description": "创客贴是综合设计平台，其中的 AI 商品图和图片翻译工具可识别主图、详情页及促销海报中的文字，生成多个语言版本并继续调整排版。适合同时经营多个国家站点、需要反复修改图片卖点的跨境团队。",
+      "tags": [
+        "国内团队",
+        "图片翻译",
+        "商品图",
+        "批量处理",
+        "跨境电商",
+        "跨境AI"
+      ],
+      "useCases": [
+        "将中文商品主图转换为多个国家站点的语言版本",
+        "批量处理详情页、参数图和促销海报",
+        "统一独立站和海外社媒的图片设计"
+      ],
+      "features": [
+        "图片文字识别和多语言翻译",
+        "同批图片选择多个目标语言",
+        "翻译后保留设计风格并支持在线编辑",
+        "AI商品背景、抠图及图片修复"
+      ],
+      "cautions": "免费版主要用于体验学习；下载、协作和商用权益随套餐变化，使用模板、字体或素材前应核对具体授权。\n翻译与生成结果仍需人工核对品牌名、单位、规格及活动条件；电商平台尺寸和图片规则以发布时要求为准。",
+      "pricingType": "freemium",
+      "pricingNote": "官网提供免费体验和通用版、协作版、企业旗舰版等付费服务。图片翻译及AI生成的实际额度、高清下载和商用范围以当前账户及套餐页面为准。",
+      "chinese": true,
+      "sourceUrl": "https://www.chuangkit.com/topic/aitupianfanyi.html",
+      "verifiedAt": "2026-10-27",
+      "categoryId": "content",
+      "logoPath": null,
+      "featured": false,
+      "sortOrder": -68,
+      "status": "published"
+    },
+    {
+      "slug": "wondershare-virbo",
+      "name": "万兴播爆（Virbo）",
+      "company": "万兴科技集团股份有限公司",
+      "websiteUrl": "https://virbo.wondershare.cn/",
+      "tagline": "用商品信息和数字人制作海外营销口播视频",
+      "description": "万兴科技面向商品营销的视频工具，提供数字人口播、脚本、配音、多语言翻译和模板创作。当前产品也支持根据商品图片、描述或链接制作营销视频，适合跨境商品介绍、开箱讲解和社媒广告素材制作。",
+      "tags": [
+        "国内团队",
+        "数字人",
+        "营销视频",
+        "多语言配音",
+        "跨境电商",
+        "跨境AI"
+      ],
+      "useCases": [
+        "制作面向不同语言市场的商品介绍视频",
+        "使用数字人完成品牌或产品口播",
+        "从商品图片、卖点或链接准备短视频广告"
+      ],
+      "features": [
+        "数字人形象和营销视频模板",
+        "AI脚本与商品卖点分析",
+        "文字转语音和多语言视频制作",
+        "照片说话与视频翻译"
+      ],
+      "cautions": "导出时长、单条视频长度、分辨率和去水印权益取决于套餐，APP、Web及不同版本的权益需分别核对。\n模板、数字人和自定义形象的使用范围应以具体授权为准；上传人物或克隆声音须获得本人授权。\n生成的视频需要复核商品规格和卖点，并遵守目标平台对AI内容的标注要求。",
+      "pricingType": "trial",
+      "pricingNote": "可试用部分功能，完整导出通常需付费会员。官网会员页按导出时长等权益区分方案，时长到期清零、可另购补充包；新版本以其购买页为准。",
+      "chinese": true,
+      "sourceUrl": "https://virbo.wondershare.cn/guide.html",
+      "verifiedAt": "2026-10-27",
+      "categoryId": "marketing",
+      "logoPath": null,
+      "featured": false,
+      "sortOrder": -67,
+      "status": "published"
+    },
+    {
+      "slug": "kreadoai",
+      "name": "KreadoAI",
+      "company": "易点天下网络科技股份有限公司旗下产品；协议运营方为Ideareal Limited及关联公司",
+      "websiteUrl": "https://www.kreadoai.com/zh",
+      "tagline": "把商品素材做成多语言数字人广告和营销短视频",
+      "description": "易点天下旗下的 AI 数字营销创作平台，覆盖数字人口播、语音生成、视频翻译和广告创意生成。适合制作多语种产品介绍、海外社媒广告和不同市场的素材版本，中文界面便于国内运营团队使用。",
+      "tags": [
+        "国内团队",
+        "数字人",
+        "视频翻译",
+        "海外广告",
+        "多语言配音",
+        "跨境AI"
+      ],
+      "useCases": [
+        "用产品卖点生成多语种数字人口播视频",
+        "把已有营销视频适配为其他语言",
+        "为TikTok等海外社媒准备不同创意版本"
+      ],
+      "features": [
+        "AI数字人视频和照片数字人",
+        "多语言文字转语音",
+        "视频多语言翻译",
+        "商品广告视频和图片创意生成"
+      ],
+      "cautions": "免费版的角色、语言、时长和功能有限；官方把商业使用权、去水印等列为付费订阅权益。\n生成消耗K币，不同模型、时长和克隆功能的权益以套餐为准；素材与声音克隆仍需取得授权。\n属于中国厂商产品，但服务协议使用Ideareal Limited及关联公司作为运营主体，签约和付款时需核对实际主体。",
+      "pricingType": "freemium",
+      "pricingNote": "提供免费版及付费订阅，按K币和功能权益分级；可补购K币，企业方案需咨询。免费额度不等于完整商用授权，价格和实际权益以官方定价页为准。",
+      "chinese": true,
+      "sourceUrl": "https://www.kreadoai.com/zh",
+      "verifiedAt": "2026-10-27",
+      "categoryId": "marketing",
+      "logoPath": null,
+      "featured": false,
+      "sortOrder": -66,
+      "status": "published"
+    },
+    {
+      "slug": "iflyrec-yizhi",
+      "name": "讯飞译制",
+      "company": "安徽听见科技有限公司（科大讯飞旗下）",
+      "websiteUrl": "https://yizhi.iflyrec.com/",
+      "tagline": "给商品演示和宣传视频添加多语言字幕与AI配音",
+      "description": "讯飞译制提供音视频字幕识别、翻译、编辑和 AI 配音。外贸团队可用它将现有产品演示、安装教程或企业宣传片制作成其他语言版本；它更侧重已有视频的本地化处理。",
+      "tags": [
+        "国内团队",
+        "视频翻译",
+        "字幕",
+        "AI配音",
+        "内容本地化",
+        "跨境AI"
+      ],
+      "useCases": [
+        "为商品安装或使用教程制作双语字幕",
+        "将中文产品演示视频转换为外语配音版本",
+        "校对企业宣传片的字幕、时间轴和译文"
+      ],
+      "features": [
+        "自动识别音视频并生成字幕",
+        "多语种字幕翻译与在线校对",
+        "AI配音及声音处理",
+        "导出字幕、音频或合成视频"
+      ],
+      "cautions": "官方用户协议对软件商业使用包含需书面授权的条款；用于企业宣传或付费广告前，应核对当前商用和音色授权，不能默认购买时长即可无限商用。\n识别语言与目标翻译语言并非完全相同，需按具体语种和音色确认可用能力；专业术语与产品参数应人工校对。\n充值时长有有效期，订单进入处理中后不接受取消退款；请先用短样片检查效果。",
+      "pricingType": "paid",
+      "pricingNote": "按语音时长、翻译内容和AI配音等服务计费，并提供充值服务；具体费用在处理前显示，充值有效期和商用授权以当前服务说明为准。",
+      "chinese": true,
+      "sourceUrl": "https://yizhi.iflyrec.com/",
+      "verifiedAt": "2026-10-27",
+      "categoryId": "content",
+      "logoPath": null,
+      "featured": false,
+      "sortOrder": -65,
+      "status": "published"
+    }
+  ]
+}
